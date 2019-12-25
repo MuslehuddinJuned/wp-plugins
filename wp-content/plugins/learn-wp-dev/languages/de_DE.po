@@ -1,0 +1,48 @@
+# Copyright (C) 2017 Learn to develop WP plugins
+# This file is distributed under the same license as the Learn to develop WP plugins package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Learn to develop WP plugins 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learn-wp-dev\n"
+"POT-Creation-Date: 2017-06-07 13:53+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-06-07 13:56+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+#: admin/Our_Menu_Class.php:10
+msgid "Our Menu Title"
+msgstr "Menü Titel"
+
+#: admin/Our_Menu_Class.php:31
+msgid "Our first settings :)"
+msgstr "Unsere ersten Einstellungen :)"
+
+#: admin/Our_Menu_Class.php:39
+msgid "Hide Admin Bar in Frontend?"
+msgstr "AdminBar im Frontend verstecken?"
+
+#. Plugin Name of the plugin/theme
+msgid "Learn to develop WP plugins"
+msgstr "Lerne dein eigenes Plugin zu schreiben"
+
+#. Plugin URI of the plugin/theme
+msgid "http://plugin-url.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is the most awesome demo plugin on planet earth"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Author Name"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://author-link.com"
+msgstr ""
